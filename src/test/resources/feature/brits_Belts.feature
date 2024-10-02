@@ -29,7 +29,9 @@ Feature: To make a shopping for men's belts and acessories
     Examples: 
       | product | data   | filename | Key    |
       | null    | Harriet | brits    | search |
+| null    | Baguet | brits    | search |
       #| null    | gayu   | brits    | search |
       #| null    | netaji | brits    | search |
       #| null    | aldi   | brits    | search |
       #| null    | asda   | brits    | search |
+
